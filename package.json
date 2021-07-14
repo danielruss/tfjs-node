@@ -1,0 +1,9 @@
+{
+  "name": "tfjs-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Daniel Russ <druss@mail.nih.gov>",
+  "license": "MIT",
+  "repository": "https://github.com/danielruss/tfjs-node.git"
+  "bugs":"https://github.com/danielruss/tfjs-node/issues"
+}
